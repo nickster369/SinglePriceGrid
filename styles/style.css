@@ -1,0 +1,25 @@
+body {
+  background-color: #dfe7ec;
+}
+table {
+  border-radius: 55px;
+  background: #e0e0e0;
+  box-shadow: 27px 27px 53px #949494, -27px -27px 53px #ffffff;
+  margin: 0 auto;
+  margin-top: 10%;
+  width: 65%;
+}
+#bottomRight {
+  background-color: #24a49c;
+  text-align: center;
+}
+#bottomLeft {
+  text-align: center;
+  width: 300px;
+
+  background-color: #1b7d77;
+}
+#topRow {
+  background-color: #e6eff6;
+  text-align: center;
+}
